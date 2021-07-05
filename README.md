@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhijeetranjan2201
-- 🌱 I’m currently learning React Naive
+- 🌱 I’m currently learning React Native
 
 <!---
 abhijeetranjan2201/abhijeetranjan2201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @abhijeetranjan2201
+- 👋 Hi, I’m abhijeet ranjan
 - 🌱 I’m currently learning Reverse Engineering
 
 <!---
